@@ -10,7 +10,7 @@ An enterprise-grade intelligent document processing system built with a robust S
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents
 
 - [Features](#-features)
 - [Architecture](#-architecture)
@@ -25,7 +25,7 @@ An enterprise-grade intelligent document processing system built with a robust S
 
 ---
 
-## 🚀 Features
+## Features
 
 *   **Secure Document Ingestion**: Upload documents with rigorous format and content validation using the Chain of Responsibility pattern.
 *   **Event-Driven Processing**: Asynchronous processing pipeline utilizing Apache Kafka for high scalability and throughput.
@@ -37,7 +37,7 @@ An enterprise-grade intelligent document processing system built with a robust S
 
 ---
 
-## 🏗 Architecture
+## Architecture
 
 The system follows a reactive microservices-style architecture, decoupling ingestion from processing to handle high loads efficiently.
 
@@ -71,7 +71,7 @@ graph TD
 
 ---
 
-## 🛠 Technology Stack
+## Technology Stack
 
 ### Backend
 *   **Framework**: Spring Boot 3.1.0
@@ -96,7 +96,7 @@ graph TD
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```bash
 intelligent-document-processing/
@@ -114,7 +114,7 @@ intelligent-document-processing/
 
 ---
 
-## 🏁 Getting Started
+## Getting Started
 
 ### Prerequisites
 *   **Java 17+**
@@ -163,7 +163,7 @@ npm start
 
 ---
 
-## 🔧 Configuration
+## Configuration
 
 The application uses standard Spring Boot configuration. Key environment variables:
 
@@ -177,7 +177,7 @@ The application uses standard Spring Boot configuration. Key environment variabl
 
 ---
 
-## 📡 API Reference
+## API Reference
 
 ### Auth
 *   `POST /api/auth/register` - Create new account
@@ -190,7 +190,7 @@ The application uses standard Spring Boot configuration. Key environment variabl
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 1.  Fork the project
 2.  Create your feature branch (`git checkout -b feature/AmazingFeature`)
@@ -200,6 +200,6 @@ The application uses standard Spring Boot configuration. Key environment variabl
 
 ---
 
-## 📄 License
+## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
